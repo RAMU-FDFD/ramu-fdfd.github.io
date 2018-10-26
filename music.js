@@ -856,4 +856,20 @@ let remas13 = [
         "achievement": "",
         "rate": ""
     },
+    {
+        "title":"FREEDOM DiVE (tpz Overcute Remix)",
+        "diff":"Master",
+        "level":"13.2",
+        "score":"",
+        "achievement":"",
+        "rate":""
+    },
+    {
+        "title":"We Gonna Journey",
+        "diff":"Master",
+        "level":"12.9",
+        "score":"",
+        "achievement":"",
+        "rate":""
+    }
 ]
