@@ -471,6 +471,14 @@ let mas12p = [
         "achievement": "",
         "rate": ""
     },
+    {
+        "title":"We Gonna Journey",
+        "diff":"Master",
+        "level":"12.9",
+        "score":"",
+        "achievement":"",
+        "rate":""
+    }
 ]
 
 let mas13 = [
@@ -722,6 +730,14 @@ let mas13 = [
         "achievement": "",
         "rate": ""
     },
+    {
+        "title":"FREEDOM DiVE (tpz Overcute Remix)",
+        "diff":"Master",
+        "level":"13.2",
+        "score":"",
+        "achievement":"",
+        "rate":""
+    }
 ]
 
 let remas12p = [
@@ -760,7 +776,7 @@ let remas12p = [
     {
         "title": "CYBER Sparks",
         "diff": "Re:Master",
-        "level": "12.7",
+        "level": "12.9",
         "score": "",
         "achievement": "",
         "rate": ""
@@ -788,7 +804,7 @@ let remas12p = [
         "score": "",
         "achievement": "",
         "rate": ""
-    },
+    }
 ]
 
 let remas13 = [
@@ -855,21 +871,5 @@ let remas13 = [
         "score": "",
         "achievement": "",
         "rate": ""
-    },
-    {
-        "title":"FREEDOM DiVE (tpz Overcute Remix)",
-        "diff":"Master",
-        "level":"13.2",
-        "score":"",
-        "achievement":"",
-        "rate":""
-    },
-    {
-        "title":"We Gonna Journey",
-        "diff":"Master",
-        "level":"12.9",
-        "score":"",
-        "achievement":"",
-        "rate":""
     }
 ]
