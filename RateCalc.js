@@ -19,7 +19,8 @@ let musicData = {
     "level": "",
     "score": "",
     "achievement": "",
-    "rate": ""
+    "rate": "",
+    "count": ""
 }
 */
 
@@ -85,7 +86,10 @@ let GetMusicData = function (diff_addr) {
                 .map(function (data) {
                     return $(data).find("td")[3].innerText.replace(/,/g, "");
                 });
-
+            let musicPlayCountList = Array.prototype.slice.call($(accordion).find(".list"))
+                .map(function(data) {
+                    return $(data).find("td")[1].innerText.replace("回", "").replace(/,/g, "");
+                });
             let diff = "";
             if (diff_addr.includes("remaster")) {
                 diff = "Re:Master";
@@ -93,7 +97,7 @@ let GetMusicData = function (diff_addr) {
                 diff = "Master";
             }
 
-            PushMusicData(diff, musicTitleList, musicAchievementList, musicScoreList);
+            PushMusicData(diff, musicTitleList, musicAchievementList, musicScoreList, musicPlayCountList);
         })
         .fail(function (jqXHR, textStatus, erroThrown) {
             alert(
@@ -125,7 +129,7 @@ let GetMusicAchievement = function (data) {
     }
 }
 
-let PushMusicData = function (diff, titleList, achievementList, scoreList) {
+let PushMusicData = function (diff, titleList, achievementList, scoreList, countList) {
     for (i = 0; i < titleList.length; i++) {
         let musicData = {
             "title": "",
@@ -133,13 +137,15 @@ let PushMusicData = function (diff, titleList, achievementList, scoreList) {
             "level": "",
             "score": "",
             "achievement": "",
-            "rate": ""
+            "rate": "",
+            "count": ""
         }
 
         musicData.title = titleList[i];
         musicData.diff = diff;
         musicData.score = scoreList[i];
         musicData.achievement = achievementList[i];
+        musicData.count = countList[i];
 
         musicList.push(musicData);
     }
@@ -199,7 +205,8 @@ let MergeMusicList = function (list) {
                     "level": list[i].level,
                     "score": musicList[j].score,
                     "achievement": musicList[j].achievement,
-                    "rate": ""
+                    "rate": "",
+                    "count": musicList[j].count
                 }
 
                 data_model.rate = CalcRating(parseFloat(data_model.level), parseFloat(data_model.achievement));
@@ -267,7 +274,7 @@ let PrintMusicList = function () {
         let data = sortedList[i];
 
         html += "<tr>";
-        html += "<th colspan=\"5\" bgcolor=\"#000000\"><font color=\"#ffffff\">" + (i+1) + ". " + data.title + "</font></th>";
+        html += "<th colspan=\"6\" bgcolor=\"#000000\"><font color=\"#ffffff\">" + (i+1) + ". " + data.title + "</font></th>";
         html +="</tr>";
 
         if ("data_Mas" in data) {
@@ -277,6 +284,7 @@ let PrintMusicList = function () {
             html += "<td>" + data.data_Mas.score + "</td>";
             html += "<td>" + data.data_Mas.achievement + "%" + "</td>";
             html += "<td>" + data.data_Mas.rate + "</td></tr>";
+            html += "<td>" + data.data_Mas.count + "回" + "</td></tr>";
         }
 
         if ("data_ReMas" in data) {
@@ -286,6 +294,7 @@ let PrintMusicList = function () {
             html += "<td>" + data.data_ReMas.score + "</td>";
             html += "<td>" + data.data_ReMas.achievement + "%" + "</td>";
             html += "<td>" + data.data_ReMas.rate + "</td></tr>";
+            html += "<td>" + data.data_ReMas.count + "回" + "</td></tr>";
         }
     }
     html += "</table></body></html>";

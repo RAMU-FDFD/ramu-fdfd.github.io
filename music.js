@@ -5,7 +5,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "拝啓ドッペルゲンガー",
@@ -13,7 +14,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "人生リセットボタン",
@@ -21,7 +23,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "幸せになれる隠しコマンドがあるらしい",
@@ -29,7 +32,8 @@ let mas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "初音ミクの消失",
@@ -37,7 +41,8 @@ let mas12p = [
         "level": "12.8",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "脳漿炸裂ガール",
@@ -45,7 +50,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "頓珍漢の宴",
@@ -53,7 +59,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "ドーナツホール",
@@ -61,7 +68,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "もうみんなしねばいいのに",
@@ -69,7 +77,8 @@ let mas12p = [
         "level": "12.8",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Scream out! -maimai SONIC WASHER Edit-",
@@ -77,7 +86,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "幻想のサテライト",
@@ -85,7 +95,8 @@ let mas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "儚きもの人間",
@@ -93,7 +104,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "最終鬼畜妹・一部声",
@@ -101,7 +113,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "ウサテイ",
@@ -109,7 +122,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Reach For The Stars",
@@ -117,7 +131,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Like the Wind [Reborn]",
@@ -125,7 +140,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Outlaw's Lullaby",
@@ -133,7 +149,8 @@ let mas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "ENERGY SYNERGY MATRIX",
@@ -141,7 +158,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "ULTRA B+K",
@@ -149,7 +167,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Brain Power",
@@ -157,7 +176,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "MilK",
@@ -165,7 +185,8 @@ let mas12p = [
         "level": "12.8",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "GO BACK 2 YOUR RAVE",
@@ -173,7 +194,8 @@ let mas12p = [
         "level": "12.8",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "B.B.K.K.B.K.K.",
@@ -181,7 +203,8 @@ let mas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "人里に下ったアタイがいつの間にか社畜になっていた件",
@@ -189,7 +212,8 @@ let mas12p = [
         "level": "12.8",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Maxi",
@@ -197,7 +221,8 @@ let mas12p = [
         "level": "12.8",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Sakura Fubuki",
@@ -205,7 +230,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "METATRON",
@@ -213,7 +239,8 @@ let mas12p = [
         "level": "12.8",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "麒麟",
@@ -221,7 +248,8 @@ let mas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Jack-the-Ripper◆",
@@ -229,7 +257,8 @@ let mas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "DRAGONLADY",
@@ -237,7 +266,8 @@ let mas12p = [
         "level": "12.8",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "電車で電車でOPA!OPA!OPA! -GMT mashup-",
@@ -245,7 +275,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Got more raves？",
@@ -253,7 +284,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "夜明けまであと３秒",
@@ -261,7 +293,8 @@ let mas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "きたさいたま2000",
@@ -269,7 +302,8 @@ let mas12p = [
         "level": "12.8",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Scars of FAUNA",
@@ -277,7 +311,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "FLOWER",
@@ -285,7 +320,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "keep hopping",
@@ -293,7 +329,8 @@ let mas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Mare Maris",
@@ -301,7 +338,8 @@ let mas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "デスパレイト",
@@ -309,7 +347,8 @@ let mas12p = [
         "level": "12.8",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Ultranova",
@@ -317,7 +356,8 @@ let mas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "夢花火",
@@ -325,7 +365,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "四月の雨",
@@ -333,7 +374,8 @@ let mas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "HERA",
@@ -341,7 +383,8 @@ let mas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Hyper Active",
@@ -349,7 +392,8 @@ let mas12p = [
         "level": "12.8",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Jumble Rumble",
@@ -357,7 +401,8 @@ let mas12p = [
         "level": "12.8",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Nitrous Fury",
@@ -365,7 +410,8 @@ let mas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "GEMINI -M-",
@@ -373,7 +419,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "天火明命",
@@ -381,7 +428,8 @@ let mas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "7thSense",
@@ -389,7 +437,8 @@ let mas12p = [
         "level": "12.8",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Lividi",
@@ -397,7 +446,8 @@ let mas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "閃鋼のブリューナク",
@@ -405,7 +455,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "MYTHOS",
@@ -413,7 +464,8 @@ let mas12p = [
         "level": "12.8",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Aiolos",
@@ -421,7 +473,8 @@ let mas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "DON’T STOP ROCKIN’",
@@ -429,7 +482,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "KING is BACK!!",
@@ -437,7 +491,8 @@ let mas12p = [
         "level": "12.8",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Nerverakes",
@@ -445,7 +500,8 @@ let mas12p = [
         "level": "12.8",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "火炎地獄",
@@ -453,7 +509,8 @@ let mas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "The wheel to the right",
@@ -461,7 +518,8 @@ let mas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "分からない",
@@ -469,7 +527,8 @@ let mas12p = [
         "level": "12.8",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title":"We Gonna Journey",
@@ -488,7 +547,8 @@ let mas13 = [
         "level": "13.3",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Calamity Fortune",
@@ -496,7 +556,8 @@ let mas13 = [
         "level": "13.2",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Credits",
@@ -504,7 +565,8 @@ let mas13 = [
         "level": "13.3",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "conflict",
@@ -512,7 +574,8 @@ let mas13 = [
         "level": "13.0",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "FUJIN Rumble",
@@ -520,7 +583,8 @@ let mas13 = [
         "level": "13.2",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Ignis Danse",
@@ -528,7 +592,8 @@ let mas13 = [
         "level": "13.0",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Ragnarok",
@@ -536,7 +601,8 @@ let mas13 = [
         "level": "13.0",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "larva",
@@ -544,7 +610,8 @@ let mas13 = [
         "level": "13.4",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Excalibur ～Revived resolution～",
@@ -552,7 +619,8 @@ let mas13 = [
         "level": "13.5",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Caliburne ～Story of the Legendary sword～",
@@ -560,7 +628,8 @@ let mas13 = [
         "level": "13.0",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Justified",
@@ -568,7 +637,8 @@ let mas13 = [
         "level": "13.0",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Moon of Noon",
@@ -576,7 +646,8 @@ let mas13 = [
         "level": "13.3",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Panopticon",
@@ -584,7 +655,8 @@ let mas13 = [
         "level": "13.2",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "ねぇ、壊れタ人形ハ何処へ棄テらレるノ？",
@@ -592,7 +664,8 @@ let mas13 = [
         "level": "13.1",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "AMAZING MIGHTYYYY!!!!",
@@ -600,7 +673,8 @@ let mas13 = [
         "level": "13.3",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "CITRUS MONSTER",
@@ -608,7 +682,8 @@ let mas13 = [
         "level": "13.2",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Axeria",
@@ -616,7 +691,8 @@ let mas13 = [
         "level": "13.3",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "ガラテアの螺旋",
@@ -624,7 +700,8 @@ let mas13 = [
         "level": "13.3",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Our Wrenally",
@@ -632,7 +709,8 @@ let mas13 = [
         "level": "13.4",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Contrapasso -paradiso-",
@@ -640,7 +718,8 @@ let mas13 = [
         "level": "13.2",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Oshama Scramble!",
@@ -648,7 +727,8 @@ let mas13 = [
         "level": "13.0",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Garakuta Doll Play",
@@ -656,7 +736,8 @@ let mas13 = [
         "level": "13.0",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Glorious Crown",
@@ -664,7 +745,8 @@ let mas13 = [
         "level": "13.1",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Fragrance",
@@ -672,7 +754,8 @@ let mas13 = [
         "level": "13.1",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Prophesy One",
@@ -680,7 +763,8 @@ let mas13 = [
         "level": "13.3",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "System “Z”",
@@ -688,7 +772,8 @@ let mas13 = [
         "level": "13.0",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "VERTeX",
@@ -696,7 +781,8 @@ let mas13 = [
         "level": "13.2",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "ジングルベル",
@@ -704,7 +790,8 @@ let mas13 = [
         "level": "13.1",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "エンドマークに希望と涙を添えて",
@@ -712,7 +799,8 @@ let mas13 = [
         "level": "13.1",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "World Vanquisher",
@@ -720,7 +808,8 @@ let mas13 = [
         "level": "13.0",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Xevel",
@@ -728,7 +817,8 @@ let mas13 = [
         "level": "13.1",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title":"FREEDOM DiVE (tpz Overcute Remix)",
@@ -747,7 +837,8 @@ let remas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "インビジブル",
@@ -755,7 +846,8 @@ let remas12p = [
         "level": "12.7",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "ロストワンの号哭",
@@ -763,7 +855,8 @@ let remas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title" : "サドマミホリック",
@@ -779,7 +872,8 @@ let remas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "患部で止まってすぐ溶ける～狂気の優曇華院",
@@ -787,7 +881,8 @@ let remas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Crush On You",
@@ -795,7 +890,8 @@ let remas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Sun Dance",
@@ -803,7 +899,8 @@ let remas12p = [
         "level": "12.9",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     }
 ]
 
@@ -814,7 +911,8 @@ let remas13 = [
         "level": "13.1",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "ナイト・オブ・ナイツ",
@@ -822,7 +920,8 @@ let remas13 = [
         "level": "13.2",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "In Chaos",
@@ -830,7 +929,8 @@ let remas13 = [
         "level": "13.4",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Beat Of Mind",
@@ -838,7 +938,8 @@ let remas13 = [
         "level": "13.3",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Panopticon",
@@ -846,7 +947,8 @@ let remas13 = [
         "level": "13.2",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "AMAZING MIGHTYYYY!!!!",
@@ -854,7 +956,8 @@ let remas13 = [
         "level": "13.3",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Garakuta Doll Play",
@@ -862,7 +965,8 @@ let remas13 = [
         "level": "13.4",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     },
     {
         "title": "Fragrance",
@@ -870,6 +974,7 @@ let remas13 = [
         "level": "13.3",
         "score": "",
         "achievement": "",
-        "rate": ""
+        "rate": "",
+		"count":""
     }
 ]
