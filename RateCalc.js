@@ -283,8 +283,9 @@ let PrintMusicList = function () {
             html += "<td>" + data.data_Mas.level + "</td>";
             html += "<td>" + data.data_Mas.score + "</td>";
             html += "<td>" + data.data_Mas.achievement + "%" + "</td>";
-            html += "<td>" + data.data_Mas.rate + "</td></tr>";
-            html += "<td>" + data.data_Mas.count + "回" + "</td></tr>";
+            html += "<td>" + data.data_Mas.rate + "</td>";
+            html += "<td>" + data.data_Mas.count + "回" + "</td>";
+            html += "</tr>";
         }
 
         if ("data_ReMas" in data) {
@@ -293,8 +294,9 @@ let PrintMusicList = function () {
             html += "<td>" + data.data_ReMas.level + "</td>";
             html += "<td>" + data.data_ReMas.score + "</td>";
             html += "<td>" + data.data_ReMas.achievement + "%" + "</td>";
-            html += "<td>" + data.data_ReMas.rate + "</td></tr>";
-            html += "<td>" + data.data_ReMas.count + "回" + "</td></tr>";
+            html += "<td>" + data.data_ReMas.rate + "</td>";
+            html += "<td>" + data.data_ReMas.count + "回" + "</td>";
+            html += "</tr>";
         }
     }
     html += "</table></body></html>";
