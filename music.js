@@ -976,5 +976,14 @@ let remas13 = [
         "achievement": "",
         "rate": "",
 		"count":""
+    },
+    {
+        "title": "ガラテアの螺旋",
+        "diff": "Re:Master",
+        "level": "13.4",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
     }
 ]
