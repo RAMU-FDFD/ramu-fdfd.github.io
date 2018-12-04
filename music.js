@@ -537,6 +537,14 @@ let mas12p = [
         "score":"",
         "achievement":"",
         "rate":""
+    },
+    {
+        "title":"My First Phone",
+        "diff":"Master",
+        "level":"12.8",
+        "score":"",
+        "achievement":"",
+        "rate":""
     }
 ]
 
@@ -824,6 +832,14 @@ let mas13 = [
         "title":"FREEDOM DiVE (tpz Overcute Remix)",
         "diff":"Master",
         "level":"13.2",
+        "score":"",
+        "achievement":"",
+        "rate":""
+    },
+    {
+        "title":"怒槌",
+        "diff":"Master",
+        "level":"13.3",
         "score":"",
         "achievement":"",
         "rate":""
