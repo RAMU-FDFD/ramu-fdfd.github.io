@@ -243,15 +243,6 @@ let mas12p = [
 		"count":""
     },
     {
-        "title": "麒麟",
-        "diff": "Master",
-        "level": "12.9",
-        "score": "",
-        "achievement": "",
-        "rate": "",
-		"count":""
-    },
-    {
         "title": "Jack-the-Ripper◆",
         "diff": "Master",
         "level": "12.9",
@@ -291,15 +282,6 @@ let mas12p = [
         "title": "夜明けまであと３秒",
         "diff": "Master",
         "level": "12.9",
-        "score": "",
-        "achievement": "",
-        "rate": "",
-		"count":""
-    },
-    {
-        "title": "きたさいたま2000",
-        "diff": "Master",
-        "level": "12.8",
         "score": "",
         "achievement": "",
         "rate": "",
@@ -351,15 +333,6 @@ let mas12p = [
 		"count":""
     },
     {
-        "title": "Ultranova",
-        "diff": "Master",
-        "level": "12.9",
-        "score": "",
-        "achievement": "",
-        "rate": "",
-		"count":""
-    },
-    {
         "title": "夢花火",
         "diff": "Master",
         "level": "12.7",
@@ -370,15 +343,6 @@ let mas12p = [
     },
     {
         "title": "四月の雨",
-        "diff": "Master",
-        "level": "12.9",
-        "score": "",
-        "achievement": "",
-        "rate": "",
-		"count":""
-    },
-    {
-        "title": "HERA",
         "diff": "Master",
         "level": "12.9",
         "score": "",
@@ -432,15 +396,6 @@ let mas12p = [
 		"count":""
     },
     {
-        "title": "7thSense",
-        "diff": "Master",
-        "level": "12.8",
-        "score": "",
-        "achievement": "",
-        "rate": "",
-		"count":""
-    },
-    {
         "title": "Lividi",
         "diff": "Master",
         "level": "12.9",
@@ -453,24 +408,6 @@ let mas12p = [
         "title": "閃鋼のブリューナク",
         "diff": "Master",
         "level": "12.7",
-        "score": "",
-        "achievement": "",
-        "rate": "",
-		"count":""
-    },
-    {
-        "title": "MYTHOS",
-        "diff": "Master",
-        "level": "12.8",
-        "score": "",
-        "achievement": "",
-        "rate": "",
-		"count":""
-    },
-    {
-        "title": "Aiolos",
-        "diff": "Master",
-        "level": "12.9",
         "score": "",
         "achievement": "",
         "rate": "",
@@ -545,6 +482,69 @@ let mas12p = [
         "score":"",
         "achievement":"",
         "rate":""
+    },
+    {
+        "title": "Justified",
+        "diff": "Master",
+        "level": "12.9",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
+    },
+    {
+        "title": "デッドレッドガールズ",
+        "diff": "Master",
+        "level": "12.7",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
+    },
+    {
+        "title": "進め！イッスン軍団 -Rebellion of the Dwarfs-",
+        "diff": "Master",
+        "level": "12.7",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
+    },
+    {
+        "title": "患部で止まってすぐ溶ける～狂気の優曇華院",
+        "diff": "Master",
+        "level": "12.7",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
+    },
+    {
+        "title": "oboro",
+        "diff": "Master",
+        "level": "12.7",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
+    },
+    {
+        "title": "猛進ソリストライフ！",
+        "diff": "Master",
+        "level": "12.7",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
+    },
+    {
+        "title": "セイクリッド　ルイン",
+        "diff": "Master",
+        "level": "12.7",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
     }
 ]
 
@@ -632,15 +632,6 @@ let mas13 = [
     },
     {
         "title": "Caliburne ～Story of the Legendary sword～",
-        "diff": "Master",
-        "level": "13.0",
-        "score": "",
-        "achievement": "",
-        "rate": "",
-		"count":""
-    },
-    {
-        "title": "Justified",
         "diff": "Master",
         "level": "13.0",
         "score": "",
@@ -843,6 +834,114 @@ let mas13 = [
         "score":"",
         "achievement":"",
         "rate":""
+    },
+    {
+        "title": "麒麟",
+        "diff": "Master",
+        "level": "13.0",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
+    },
+    {
+        "title": "きたさいたま2000",
+        "diff": "Master",
+        "level": "13.0",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
+    },
+    {
+        "title": "Ultranova",
+        "diff": "Master",
+        "level": "13.0",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
+    },
+    {
+        "title": "HERA",
+        "diff": "Master",
+        "level": "13.0",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
+    },
+    {
+        "title": "7thSense",
+        "diff": "Master",
+        "level": "13.0",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
+    },
+    {
+        "title": "MYTHOS",
+        "diff": "Master",
+        "level": "13.0",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
+    },
+    {
+        "title": "Aiolos",
+        "diff": "Master",
+        "level": "13.0",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
+    },
+    {
+        "title": "花と、雪と、ドラムンベース。",
+        "diff": "Master",
+        "level": "13.3",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
+    },
+    {
+        "title": "SILENT BLUE",
+        "diff": "Master",
+        "level": "13.5",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
+    },
+    {
+        "title": "TiamaT:F minor",
+        "diff": "Master",
+        "level": "13.0",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
+    },
+    {
+        "title": "極圏",
+        "diff": "Master",
+        "level": "13.0",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
+    },
+    {
+        "title": "Scarlet Lance",
+        "diff": "Master",
+        "level": "13.0",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
     }
 ]
 
@@ -892,15 +991,6 @@ let remas12p = [
 		"count":""
     },
     {
-        "title": "患部で止まってすぐ溶ける～狂気の優曇華院",
-        "diff": "Re:Master",
-        "level": "12.9",
-        "score": "",
-        "achievement": "",
-        "rate": "",
-		"count":""
-    },
-    {
         "title": "Crush On You",
         "diff": "Re:Master",
         "level": "12.9",
@@ -911,6 +1001,24 @@ let remas12p = [
     },
     {
         "title": "Sun Dance",
+        "diff": "Re:Master",
+        "level": "12.9",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
+    },
+    {
+        "title": "Burning Hearts ～炎のANGEL～",
+        "diff": "Re:Master",
+        "level": "12.7",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
+    },
+    {
+        "title": "花と、雪と、ドラムンベース。",
         "diff": "Re:Master",
         "level": "12.9",
         "score": "",
@@ -997,6 +1105,15 @@ let remas13 = [
         "title": "ガラテアの螺旋",
         "diff": "Re:Master",
         "level": "13.4",
+        "score": "",
+        "achievement": "",
+        "rate": "",
+		"count":""
+    },
+    {
+        "title": "患部で止まってすぐ溶ける～狂気の優曇華院",
+        "diff": "Re:Master",
+        "level": "13.0",
         "score": "",
         "achievement": "",
         "rate": "",
